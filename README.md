@@ -1,17 +1,10 @@
 # Katana
 **Katana** — TikTok Username Checker.
 
-```
-█▓▒▓█▀██▀█▄░░▄█▀██▀█▓▒▓█
-█▓▒░▀▄▄▄▄▄█░░█▄▄▄▄▄▀░▒▓█
-█▓▓▒░░░░░▒▓░░▓▒░░░░░▒▓▓█
-           𝗞𝗮𝘁𝗮𝗻𝗮
-```
+![banner](banner.png)
 
-
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/haithamaouati/Katana/refs/heads/main/screenshot.jpg)
+## Preview
+![preview](preview.png)
 
 ## Install
 
@@ -55,6 +48,9 @@ To use the Katana script, follow these steps:
 Check username: `./katana.sh -u hacker_dz`
 
 Check file with usernames: `./katana.sh -u usernames.txt`
+
+## Screenshot
+![screenshot](screenshot.png)
 
 ## Dependencies
 
