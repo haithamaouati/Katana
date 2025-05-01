@@ -150,7 +150,7 @@ end_time=$(date +%s)
 elapsed=$((end_time - start_time))
 
 # Output process completion with stats
-echo -e "${bold_green}[¡] Process finished.${normal} Total time: ${bold}$elapsed seconds.${normal}\n"
+echo -e "\n${bold_green}[¡] Process finished.${normal} Total time: ${bold}$elapsed seconds.${normal}\n"
 echo -e "${bold}[*]${normal} Total usernames checked: ${bold}$total_checked${normal}"
 echo -e "${bold_green}[+]${normal} Available usernames: ${bold_green}$available_count${normal}"
 echo -e "${bold_red}[-]${normal} Taken usernames: ${bold_red}$taken_count${normal}\n"
