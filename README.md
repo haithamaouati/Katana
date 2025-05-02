@@ -64,7 +64,7 @@ Make sure to install these dependencies before running the script.
 
 ## Author
 
-Made with :coffee: by **Haitham Aouati**
+Made with :coffee: by **Haitham Aouati (YHΞ)**
   - GitHub: [github.com/haithamaouati](https://github.com/haithamaouati)
 
 ## License
