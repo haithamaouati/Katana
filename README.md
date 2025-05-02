@@ -49,9 +49,6 @@ Check username: `./katana.sh -u hacker_dz`
 
 Check file with usernames: `./katana.sh -u usernames.txt`
 
-## Screenshot
-![screenshot](screenshot.png)
-
 ## Dependencies
 
 The script requires the following dependencies:
