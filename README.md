@@ -69,4 +69,4 @@ Made with :coffee: by **Haitham Aouati (YHΞ)**
 
 ## License
 
-Katana is licensed under [Unlicense license](LICENSE).
+Katana is licensed under [WTFPL license](LICENSE).
